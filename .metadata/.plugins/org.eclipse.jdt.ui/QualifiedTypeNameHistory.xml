@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.DefaultBoundedRangeModel"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="contaUtil.Cores"/>
+    <fullyQualifiedTypeName name="conta.util.Cores"/>
+    <fullyQualifiedTypeName name="LojaGames.Produto"/>
+    <fullyQualifiedTypeName name="farmacia.Farmacia"/>
+    <fullyQualifiedTypeName name="conta.model.Conta"/>
+    <fullyQualifiedTypeName name="conta.model.ContaCorrente"/>
+    <fullyQualifiedTypeName name="conta.model.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="conta.util.Colors"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="cliente.ClienteCadastro"/>
+</qualifiedTypeNameHistroy>
